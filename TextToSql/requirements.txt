@@ -1,0 +1,7 @@
+flask
+pandas
+
+langchain
+langchain_community
+plotly
+langchain-openai
